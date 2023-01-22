@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 const CommentsList = ({ comments }) => (
     <>
     <h3>Comments:</h3>

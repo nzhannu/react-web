@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 const HomePage = () => (
     <>
     <h1>Hello, welcome to my blog!</h1>

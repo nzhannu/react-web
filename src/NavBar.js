@@ -1,4 +1,5 @@
 import { Link, useNavigate } from 'react-router-dom';
+import React, { Component }  from 'react';
 import { getAuth, signOut } from 'firebase/auth';
 import useUser from './hooks/useUser';
 

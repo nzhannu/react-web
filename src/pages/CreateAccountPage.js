@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth';

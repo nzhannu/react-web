@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import ArticlesList from '../components/ArticlesList';
 import articles from './article-content';
 

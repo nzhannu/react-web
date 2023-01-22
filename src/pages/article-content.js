@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 const articles = [
     {
         name: 'learn-react',
